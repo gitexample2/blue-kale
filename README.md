@@ -1,2 +1,2 @@
 # blue-kale
-This is an enahnced readme
+# This is an enhanced readme 
