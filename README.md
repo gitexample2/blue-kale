@@ -1,1 +1,1 @@
-# blue-kale
+# The Grand Blue-Kale
