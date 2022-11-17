@@ -23,6 +23,7 @@ import http.server
 import socket
 import socketserver
 import sys
+import os
 
 # TCP port for listening to connections, if no port is received
 DEFAULT_PORT=8000
