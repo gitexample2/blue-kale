@@ -45,7 +45,7 @@ def main(argv):
     port = DEFAULT_PORT
     if len(argv) > 1:
         port = int(argv[1])
-
+    # open socket to TCserver 
     web_server = socketserver.TCPServer(('', port), Handler)
     print("Listening for connections on port {}".format(port))
     web_server.serve_forever()
